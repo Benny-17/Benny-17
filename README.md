@@ -1,48 +1,73 @@
-### 👋 Hi, I'm Benny!
+## Hi! I'm Benny 👋  
 
-🚀 I'm a cloud and DevOps enthusiast, passionate about building scalable infrastructure and automating deployments. I recently completed a 4-month internship at *F13 Technologies*, where I worked on real-world AWS-based projects and built serverless applications.
-
----
-
-## 🧰 Tech Stack
-- ☁️ **Cloud**: AWS (EC2, S3, Lambda, DynamoDB, Cognito, API Gateway, CloudWatch, VPC, IAM, Route 53)
-- 🐳 **Containers**: Docker, ECS (learning EKS)
-- 🔧 **IaC**: CloudFormation, Terraform (beginner)
-- 🔁 **CI/CD**: CodePipeline, CodeDeploy, GitHub Actions
-- 🖥️ **Languages**: Python (basics), Bash,
-- 🧠 **Tools**: Git, Linux, VSCode, Postman, Amplify
+I'm a **Cloud & DevOps enthusiast** passionate about building scalable, automated infrastructure in the cloud.
+- 🎓 B.E. CSE Graduate (2023) from Vels Institute of Science, Technology & Advanced Studies
+- 🧑‍💻 Completed a 4-month internship at **F13 Technologies**, where I worked on real-world serverless projects using AWS
+- 🚀 Currently learning Kubernetes, Terraform, and CI/CD with GitHub Actions
+- 📌 Looking for **entry-level roles** in Cloud or DevOps Engineering to contribute and grow
 
 ---
 
-## 📂 Featured Projects
-🔹 **Dockerized Django Application with PostgreSQL**  
-Containerized a Django web application using **Docker Compose**, separating services for web, database, and migrations. Great example of container orchestration for local dev and testing environments.  
-[GitHub Repo]([https://github.com/Benny-17/docker-compose-for-django-application])
+### 🌐 Connect with Me
 
-🔹 **AWS Cost Optimization Lambda**  
-Automated the cleanup of **stale EBS snapshots** using **AWS Lambda** and **Python (Boto3)**. Helps reduce cloud storage costs and demonstrates AWS automation with serverless computing.  
-[GitHub Repo](https://github.com/YOUR_USERNAME/aws-cost-optimization-lambda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benny17)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.bennypius@gmail.com)
 
 ---
 
-## 📜 Certifications & Achievements
-- ✅ AWS Skill Builder Badges (Foundational & Serverless)
-- 💼 Internship at **F13 Technologies** (Oct 2024 – Jan 2025)
-- 📚 Continuously learning Kubernetes, EKS, and Terraform
+### 💻 Tech Stack
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### 🛠️ IaC & CI/CD
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+#### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
-- Kubernetes (EKS, kubectl, Helm)
-- Terraform (modules, state, backends)
-- AWS CodeBuild & advanced CI/CD concepts
+### 📂 Featured Projects
+
+🔹 **Dockerized Django App with PostgreSQL**  
+Built a Django web app containerized using Docker and Docker Compose, integrated with PostgreSQL.  
+[GitHub Repo](https://github.com/Benny-17/docker-compose-for-django-application)
+
+🔹 **AWS Cost Optimization with Lambda**  
+Automated deletion of stale EBS snapshots using Python (Boto3) and AWS Lambda to reduce storage costs.  
+[GitHub Repo](https://github.com/Benny-17/aws-cost-optimization-lambda)
+
+> More projects coming soon — currently working on CI/CD and Kubernetes labs!
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
-- 📧 Email: your.email@example.com
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Benny-17&theme=dark&hide_border=true&include_all_commits=true&count_private=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Benny-17&theme=dark&hide_border=true&layout=compact)
 
 ---
 
-🛠️ *Always building, always learning.*
+### 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=Benny-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
