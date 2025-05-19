@@ -1,8 +1,8 @@
 ## Hi! I'm Benny 👋  
 
 I'm a **Cloud & DevOps enthusiast** passionate about building scalable, automated infrastructure in the cloud.
-- 🎓 B.E. CSE Graduate (2023) from Vels Institute of Science, Technology & Advanced Studies
-- 🧑‍💻 Completed a 4-month internship at **F13 Technologies**, where I worked on real-world serverless projects using AWS
+- 🎓 **B.E. CSE Graduate (2023)** from Vels Institute of Science, Technology & Advanced Studies
+- 🧑‍💻 Completed a 4-month internship at **F13 Technologies**,where I worked on real-world serverless projects using AWS services like Lambda, Cognito, and DynamoDB.
 - 🚀 Currently learning Kubernetes, Terraform, and CI/CD with GitHub Actions
 - 📌 Looking for **entry-level roles** in Cloud or DevOps Engineering to contribute and grow
 
@@ -10,8 +10,8 @@ I'm a **Cloud & DevOps enthusiast** passionate about building scalable, automate
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benny17)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.bennypius@gmail.com)
+  📧 [Email](mailto:d.bennypius@gmail.com)  
+  🔗 [LinkedIn](https://linkedin.com/in/benny17)
 
 ---
 
